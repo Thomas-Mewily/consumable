@@ -1,0 +1,13 @@
+[package]
+name = "consumable"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/Thomas-Mewily/consumable"
+keywords = ["take", "consume", "consumable", "default"]
+categories = ["rust-patterns"]
+description = "Consume the value by replacing it with the default value and returning the previous value"
+authors = ["Mewily"]
+
+[dependencies]
